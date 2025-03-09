@@ -12,3 +12,4 @@ In the example shown, the project was created using version 2020.3.27f1. That ve
 
 <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>Unity Hub Installs View</p></figcaption></figure>
 
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>Initial Install of Hub prompts to install current editor</p></figcaption></figure>
