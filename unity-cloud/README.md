@@ -20,7 +20,7 @@ Click Explore Repositories and the rest of the submenu entries. You will see tha
 
 Eventually you will click on Unity Cloud Drive. This feature will provide a helpful button to create an organization. Do that now.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>There are 4 choices: what drives the decision?</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>There are 4 choices: what drives the decision?</p></figcaption></figure>
 
 A note reads "The server location is reused for all repositories and CANNOT be changed once configured." There is a workaround if this setting becomes a problem. Generally Unity Cloud is a CDN, so the impact of a bad selection here is for initial uploads of content.
 
