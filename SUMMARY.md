@@ -9,6 +9,7 @@
   * [Cloud Content Delivery](unity-cloud/cloud-content-delivery.md)
   * [Unity Build Automation](unity-cloud/unity-build-automation.md)
 * [Unity 6 Engine](unity-6-engine.md)
-* [Unity VCS](unity-vcs.md)
+* [Unity VCS](unity-vcs/README.md)
+  * [Troubleshooting](unity-vcs/troubleshooting.md)
 * [Gluon](gluon.md)
 * [SyncSketch](syncsketch.md)
