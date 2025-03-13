@@ -11,7 +11,7 @@
   * [Unity VCS](unity-cloud/unity-vcs/README.md)
     * [UVCS App](unity-cloud/unity-vcs/uvcs-app.md)
     * [Gluon](unity-cloud/unity-vcs/gluon.md)
+    * [Unity Editor Version Control](unity-cloud/unity-vcs/unity-editor-version-control.md)
     * [Troubleshooting](unity-cloud/unity-vcs/troubleshooting.md)
-    * [Page](unity-cloud/unity-vcs/page.md)
 * [Unity 6 Engine](unity-6-engine.md)
 * [SyncSketch](syncsketch.md)
