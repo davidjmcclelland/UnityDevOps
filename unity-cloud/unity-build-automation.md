@@ -4,6 +4,12 @@ Running a build on a local development machine is a blocking task that generally
 
 Build Automation offloads the Unity build processing to a cloud instance and frees up developers to use Unity Editor instead of waiting for a build to complete.
 
+{% embed url="https://cloud.unity.com/home/organizations/2475807756479/projects/1860fe12-bd1d-4976-b14a-f3f7634da086/devops/overview" %}
+free demo Devops landing page
+{% endembed %}
+
+
+
 
 
 | Feature                     | Description                                                                                                            |

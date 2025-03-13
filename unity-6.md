@@ -1,6 +1,8 @@
 # Unity 6
 
-It is assumed that this project will be usable to set up a devops environment for Unity 6.
+![](<.gitbook/assets/image (18).png>)
+
+This project documents how to set up a devops environment for Unity 6.
 
 Components to be included:
 

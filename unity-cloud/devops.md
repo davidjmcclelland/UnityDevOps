@@ -1,6 +1,6 @@
 # Devops
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Wheel of Devops</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt="" width="375"><figcaption><p>Wheel of Devops</p></figcaption></figure>
 
 Devops is supposed to provide contextual glue for the collection of tools and activities involved in content creation activities:
 
