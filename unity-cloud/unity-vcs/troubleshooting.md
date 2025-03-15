@@ -1,3 +1,7 @@
+---
+icon: exclamation
+---
+
 # Troubleshooting
 
 Repository and Project name must be applied consistently in each area.

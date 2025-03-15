@@ -1,3 +1,7 @@
+---
+icon: wand-sparkles
+---
+
 # Unity Build Automation
 
 Running a build on a local development machine is a blocking task that generally takes over all available resources.

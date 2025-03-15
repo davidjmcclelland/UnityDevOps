@@ -1,3 +1,7 @@
+---
+icon: truck-ramp-box
+---
+
 # Cloud Content Delivery
 
 Access Cloud Content Delivery from the Products menu on the Left.

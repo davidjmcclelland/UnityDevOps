@@ -13,5 +13,7 @@
     * [Gluon](unity-cloud/unity-vcs/gluon.md)
     * [Unity Editor Version Control](unity-cloud/unity-vcs/unity-editor-version-control.md)
     * [Troubleshooting](unity-cloud/unity-vcs/troubleshooting.md)
+    * [Cloud/Web App VCS](unity-cloud/unity-vcs/cloud-web-app-vcs.md)
+  * [Team Setup](unity-cloud/team-setup.md)
 * [Unity 6 Engine](unity-6-engine.md)
 * [SyncSketch](syncsketch.md)

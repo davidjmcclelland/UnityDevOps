@@ -1,3 +1,7 @@
+---
+icon: laptop-code
+---
+
 # Devops
 
 <figure><img src="../.gitbook/assets/image (5).png" alt="" width="375"><figcaption><p>Wheel of Devops</p></figcaption></figure>

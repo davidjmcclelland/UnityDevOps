@@ -1,3 +1,7 @@
+---
+icon: code-fork
+---
+
 # Unity Editor Version Control
 
 Like many IDEs, Unity has a built-in VCS client that will open the repository and project corresponding to an existing project opened via Unity Hub.&#x20;
