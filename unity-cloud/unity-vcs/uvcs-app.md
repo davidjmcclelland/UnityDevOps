@@ -12,7 +12,7 @@ Run the installer for Unity DevOps Version Control that should have already been
 Link to UVCS Windows installer
 {% endembed %}
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>The Right side will launch Gluon.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption><p>The Right side will launch Gluon.</p></figcaption></figure>
 
 You will need to log into Unity again to use the UVCS. Again, it makes sense that a developer can work form multiple companies from the same UVCS instance, so this should map to the Cloud account you intend to access. Click on the option to log in using your Unity account and it will bring up your repository instantly.
 

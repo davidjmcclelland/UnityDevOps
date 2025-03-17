@@ -8,7 +8,7 @@ Gluon is UVCS with any option that would lead to the need to merge changes turne
 
 Note that this is something GiT does not do, or if it does, it isn't a friendly, confidence inspiring experience for anyone involved.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>At this stage, Gluon looks like UVCS</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>At this stage, Gluon looks like UVCS</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption><p>Gluon Repository Level</p></figcaption></figure>
 

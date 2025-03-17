@@ -10,4 +10,4 @@ In addition, some Unity content is exposed, including some demos.
 
 Assets purchased from Unity Store are automatically placed in Asset Manager as well.
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>The Asset Manager in action</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>The Asset Manager in action</p></figcaption></figure>

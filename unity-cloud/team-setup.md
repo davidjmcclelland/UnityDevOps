@@ -22,8 +22,8 @@ The team member(s) that are invited receive an email inviting them to login with
 
 In any case the invitee can log into Unity and access the project as shown in the following:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>invitee can switch organizations after logging into their Unity account.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>invitee can switch organizations after logging into their Unity account.</p></figcaption></figure>
 
 Once switched over to the organization they were invited to, the entire Unity Cloud UI provides access within that organization's context:
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>The navigation on the Left points to the inviting organization now.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>The navigation on the Left points to the inviting organization now.</p></figcaption></figure>
