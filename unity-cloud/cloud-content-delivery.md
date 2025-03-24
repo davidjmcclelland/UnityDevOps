@@ -2,11 +2,13 @@
 description: >-
   Cloud Content Delivery is a method to distribute content into an existing,
   released game. It can also be used to distribute changes to QA or game testers
-  before new content is released. This might be
+  before new content is released.
 icon: truck-ramp-box
 ---
 
 # Cloud Content Delivery
+
+This can be a way to distribute content modules to a common content platform.&#x20;
 
 Access Cloud Content Delivery from the Products menu on the Left.
 
