@@ -4,7 +4,7 @@ icon: laptop-code
 
 # Devops
 
-<figure><img src="../.gitbook/assets/image (5).png" alt="" width="375"><figcaption><p>Wheel of Devops</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt="" width="375"><figcaption><p>Wheel of Devops</p></figcaption></figure>
 
 Devops is supposed to provide contextual glue for the collection of tools and activities involved in content creation activities:
 
@@ -34,4 +34,4 @@ CI unlocks the capability to trigger builds at a daily pace. Webhooks enable not
 
 Once a deliverable deployment milestone is reached (i.e. KOL build, QA, Integration) the deployment steps required to get content loaded on devices can be managed
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>

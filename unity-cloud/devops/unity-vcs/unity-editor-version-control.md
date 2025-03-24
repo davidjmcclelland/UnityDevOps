@@ -8,5 +8,5 @@ Like many IDEs, Unity has a built-in VCS client that will open the repository an
 
 From the main menu, select Window->Unity Version Control to open it in a tab.
 
-<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption><p>Unity VCS from within Unity Editor</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (24).png" alt=""><figcaption><p>Unity VCS from within Unity Editor</p></figcaption></figure>
 
