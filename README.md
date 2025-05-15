@@ -1,8 +1,12 @@
-# README.md
+---
+icon: unity
+---
 
-## Mostly configuration
+# Unity Devops README.md
 
-## Might be some config files
+## This documentation is provided to help onboard new members of the development team.
+
+## There is a lot of information provided to allow for varied levels of previous exposure to the tools.
 
 <figure><img src=".gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
@@ -12,4 +16,6 @@
 
 ***
 
-Note: Since most of this project will consist of documentation alone, the root GiT directory is used to store the GitBook pages.
+{% hint style="info" %}
+Since most of this project will consist of documentation alone, the root GiT directory is used to store the GitBook pages.
+{% endhint %}
